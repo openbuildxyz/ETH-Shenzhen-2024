@@ -1,6 +1,6 @@
 # xfinder
 
-## 一、项目概述
+## 项目概述
 **Xfinder — 让Web3知识获取更加简单**
 
 Xfinder 是一款专为Web3新手和进阶用户设计的社交聚合平台，致力于帮助从Web2过渡到Web3的用户，打造一站式信息获取渠道。我们的团队基于自身经验，发现许多有意进入Web3领域的人群面临以下共同痛点：
@@ -16,7 +16,7 @@ Xfinder 是一款专为Web3新手和进阶用户设计的社交聚合平台，�
 
 通过Xfinder，我们旨在为新手提供便捷的知识获取途径，降低Web3的入门门槛，同时提升用户获取高质量信息资源的效率。我们相信，这个平台能够帮助更多人轻松跨越Web3的学习门槛，推动整个行业的发展。
 
-## 二、核心功能（4-5 条关键核心要点）
+## 核心功能（4-5 条关键核心要点）
 
 1. **新手指南模块**：为刚接触Web3的用户量身定制的入门工具。该模块涵盖区块链基础知识、行业生态框架、钱包操作手册、网络安全注意事项，以及如何防范诈骗等实用指南，帮助新手快速掌握Web3基础，降低学习门槛。
 2. **KOL评测模块**：通过评估关键意见领袖（KOL）的表现，为用户提供有价值的投资和学习参考。该模块记录不同KOL在一段时间内的喊单胜率、风格特点等关键数据，帮助用户更理性地选择追随对象。用户还能查看KOL撰写的行业深度文章，进一步扩展知识面。
@@ -25,14 +25,14 @@ Xfinder 是一款专为Web3新手和进阶用户设计的社交聚合平台，�
 
 通过这些核心功能，Xfinder 不仅为新手提供了一个便捷的入门途径，还为进阶用户提供了丰富的知识储备和风险防范工具，帮助他们在Web3的世界中稳步前行。
 
-## 三、项目演示（录屏 或 可页面的在线访问地址均可）
+## 项目演示（录屏 或 可页面的在线访问地址均可）
 * 推特账号：@0xgangWhat
 * Github：[https://github.com/xfindlab/xfinder](https://github.com/xfindlab/xfinder)
 * 网站地址：[https://xfinder.fun/](https://xfinder.fun/)
 * 测评文档：[https://docs.google.com/spreadsheets/d/1DRt7axVIilFytqLCZBOidgprooERXdfNnsbdJOGt8qs/edit?pli=1#gid=1272007175](https://docs.google.com/spreadsheets/d/1DRt7axVIilFytqLCZBOidgprooERXdfNnsbdJOGt8qs/edit?pli=1#gid=1272007175)
 
-## 四、团队成员（名字、Github 地址）
-* Echo_nina(project manager) [Github](https://github.com/Nina2333))
+## 团队成员（名字、Github 地址）
+* Echo_nina(project manager) [Github](https://github.com/Nina2333)
 * ls06(Frontend Developer)
 * unicorn(Blockchain developer)
 * suinian(Backend developer)
