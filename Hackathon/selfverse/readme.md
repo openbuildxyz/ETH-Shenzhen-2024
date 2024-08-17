@@ -8,6 +8,10 @@
 
 用不拘泥于区块链的去中心化技术，以去中心化的方式为使用者解决问题，将部署、托管、管理等使用层面的选择权交给他们。
 
+## 参加赛道
+
+主赛道为「Open-Source Tools/Infrastructure」，bounty 赛道为「BGA(Blockchain for Good Alliance)」。
+
 ## 核心功能
 
 1. 文章发布与展示；
