@@ -20,8 +20,8 @@ https://github.com/bike-labs/PNPH
 
 ### Deck (PPT) 地址
 
-https://github.com/bike-labs/PNPH
+https://github.com/openbuildxyz/ETH-Shenzhen-2024/tree/main/Hackathon/PNPH
 
 ### 项目演示
 
-https://github.com/bike-labs/PNPH
+https://github.com/openbuildxyz/ETH-Shenzhen-2024/tree/main/Hackathon/PNPH
