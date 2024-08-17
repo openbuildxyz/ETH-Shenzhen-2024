@@ -7,6 +7,10 @@
 项目文件夹内创建一个`README.md` 文件，内含以下内容：
 
 - 项目概述
+- 项目所选主赛道（只能一个）和 Bounty 赛道名称（可多个）
+  - 主赛道：**Innovative Dapps**, **Open-Source Tools/Infrastructure**, **xFi**, **General**
+  - Bounty 赛道：**TheGrahp**, **Vara Network**, **SmartLayer Network**, **Bifrost**, **BGA(Blockchain for Good Alliance)**
+
 - 核心功能（4-5 条关键核心要点）
 - 代码仓库地址
 - 团队成员（名字、Github 地址）
