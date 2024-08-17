@@ -1,0 +1,6 @@
+- 项目概述：该项目是 Researcher House 出来的研究 proposal。题目是 [OP5] Identifying & Prevent Out-Of-Market Malicious Behavior，在这个 proposal 里，我首先分析了针对 Prover Market 的 prover side 与 user side 的攻击，并为了防范这些攻击有针对性的提出了 prover market 的设计框架。
+- 核心功能：该 proposal 的核心设计一个是 staking prover，即需要质押才能成为 prover；另一个是带有 basefee 的二价拍卖机制。
+- 代码仓库地址：无
+- 团队成员：Chen Xuan
+- 历史获奖说明：无 
+- Deck地址：https://testdomaina.notion.site/OP5-Identifying-Prevent-Out-Of-Market-Malicious-Behavior-d8fb7f946e5b48d6813303bae424fca0?pvs=4
