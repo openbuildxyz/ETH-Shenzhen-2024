@@ -2,6 +2,14 @@
 
 > A comprehensive metrics platform focused on Web3 ecosystems, communities, repositories, and developers
 
+## Project Track
+
+Open-Source Tools/Infrastructure
+
+## Bounty Track
+
+BGA
+
 ## Project Overview
 
 While Web3 ecosystems share similarities with traditional open-source communities, standard metric systems often fall short in providing a holistic understanding, trend tracking, and project evaluation specific to Web3 initiatives. Web3Insights aims to bridge this gap by offering tailored analytics and insights for the unique landscape of Web3 projects.
