@@ -52,13 +52,23 @@ October - November 2024
 ## Project Team
 
 - [wfnuser](https://github.com/wfnuser)
+- [c21](https://github.com/jerikchan)
+- [Amateur](https://github.com/Amateur0x1)
+
+## Award Records
+
+[7/25 Scroll Mini General Track](https://www.hackquest.io/zh/hackathon/projects/Scroll-City-Cup-Hackathon-YouBet-Task)
+
+During this hackathon, we invested a significant amount of effort to bring the project to a **near production-ready level** and introduced tutorial features.
 
 ## Project Links
 
-| Item       | Link                                            |
-| ---------- | ----------------------------------------------- |
-| Live Demo  | [youbet-task](https://youbet-task.netlify.app/) |
-| Youbet SDK | [youbet-sdk](https://youbetdao.github.io/)      |
+| Item        | Link                                                    |
+| ----------- | ------------------------------------------------------- |
+| Live Demo   | [youbet-task](https://youbet-task.netlify.app/)         |
+| Youbet Task | [youbet-task](https://github.com/YoubetDao/youbet-task) |
+| Youbet SDK  | [youbet-sdk](https://youbetdao.github.io/)              |
+| Youbet Core | [youbet-core](https://github.com/YoubetDao/youbet)      |
 
 ## Contact Information
 
