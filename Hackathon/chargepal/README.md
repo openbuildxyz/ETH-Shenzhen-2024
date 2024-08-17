@@ -30,3 +30,7 @@ Alex ZHENG, Jack WU, David, Ethan MAO, Dave DENG
 ### 项目演示
 
 ./chargepal_demo.mp4
+
+### 主赛道
+
+innovative dapps
