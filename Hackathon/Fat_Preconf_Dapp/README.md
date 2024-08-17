@@ -1,5 +1,9 @@
 ## 项目概述
 
+主要赛：
+
+Bounty赛道：
+
 Vitalik 最早提出了 Base-rollup 和 Pre-confirmation的概念，Justin Drake 等人也在逐渐推动 Pre-confirmation 相关的架构的发展。目前Preconfirmation 有多个基础设施项目方在提供服务，如 Nethermind, Chainbound, Limechain, Primev, and Espresso等，但这些公司都是服务于 Layer2 的Preconfirmation 方案。
 
 Fat-Preconf-Dapp 是一个直接应用 Preconfirmation 架构，在以太坊一层运行的Dapp框架，即在以太坊主网直接提交交易。
@@ -52,3 +56,5 @@ Fat-Preconf-Dapp 是一个直接应用 Preconfirmation 架构，在以太坊一�
 ## 项目演示（录屏 或 可页面的在线访问地址均可）
 
 > 
+
+
