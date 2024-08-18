@@ -1,6 +1,12 @@
 ## 项目概述
 AuctionClub is a smart contract-based auction platform that provides traders with a fair and reliable auction environment. The platform currently supports two auction modes: English auction and Dutch auction. It also offers a variety of trading rules that sellers can freely combine. Additionally, the platform implements an incentive mechanism to provide positive feedback to bidders. Active participation in bidding can earn bidders auction shares and extract huge profits.
 
+## 项目所选主赛道和 Bounty 赛道
+
++ 主赛道：**General**
+
++ Bounty 赛道：**TheGraph** 
+
 ## 核心功能
 
 1. Login and Connect Wallet
