@@ -31,7 +31,7 @@ YouBet Task 是一个自动为开源开发者分发奖励的平台，通过跟�
 - 后端：Nest.js
 - 数据库：MongoDB & Kafka
 - EVM 链：基于 Scroll 构建 | 通过 Foundry 编译和发布
-- **由 Youbet-SDK 提供支持**
+- **由 [Youbet-Sdk](https://youbetdao.github.io/) 提供支持**
 - **大量依赖 Github API**
 
 ## 路线图
@@ -51,9 +51,9 @@ YouBet Task 是一个自动为开源开发者分发奖励的平台，通过跟�
 
 ## 团队成员
 
-- [wfnuser](https://github.com/wfnuser)
-- [c21](https://github.com/jerikchan)
-- [Amateur](https://github.com/Amateur0x1)
+- [wfnuser](https://github.com/wfnuser) - SJTUer - 全栈 - With great responsibility comes great power.
+- [c21](https://github.com/jerikchan) - 前端 - 前端开发者，梦想旅居全世界。
+- [Amateur](https://github.com/Amateur0x1) - 前端 - .intp ，兴趣广泛，喜欢探索(◍•ᴗ•◍)
 
 ## 获奖记录
 
@@ -63,12 +63,13 @@ YouBet Task 是一个自动为开源开发者分发奖励的平台，通过跟�
 
 ## 项目链接
 
-| 项目        | 链接                                                    |
-| ----------- | ------------------------------------------------------- |
-| 在线演示    | [youbet-task](https://youbet-task.netlify.app/)         |
-| Youbet Task | [youbet-task](https://github.com/YoubetDao/youbet-task) |
-| Youbet SDK  | [youbet-sdk](https://youbetdao.github.io/)              |
-| Youbet Core | [youbet-core](https://github.com/YoubetDao/youbet)      |
+| 项目             | 链接                                                                                                                                                          |
+| ---------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 在线演示         | [youbet-task](https://youbet-task.netlify.app/)                                                                                                               |
+| Youbet Task      | [youbet-task](https://github.com/YoubetDao/youbet-task)                                                                                                       |
+| Youbet SDK       | [youbet-sdk](https://youbetdao.github.io/)                                                                                                                    |
+| Youbet Core      | [youbet-core](https://github.com/YoubetDao/youbet)                                                                                                            |
+| Last Pitch Video | [pitch-video](https://www.hackquest.io/zh/hackathon/projects/Scroll-City-Cup-Hackathon-YouBet-Task) 可以看到我们这次产品质量的飞跃 几乎达到了准生产可用的水平 |
 
 ## 联系信息
 
