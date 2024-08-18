@@ -1,23 +1,23 @@
 # xfinder
 
-赛道：General
-Bounty Track:BGA(Blockchain for Good Alliance)
-
 ## 项目概述
 **Xfinder — 让Web3知识获取更加简单**
 
 Xfinder 是一款专为Web3新手和进阶用户设计的社交聚合平台，致力于帮助从Web2过渡到Web3的用户，打造一站式信息获取渠道。我们的团队基于自身经验，发现许多有意进入Web3领域的人群面临以下共同痛点：
-
 1. **入门门槛高，信息匮乏**：新手获取相关资源的难度大，导致对Web3的认知不足。
 2. **高质量资源分散**：有价值的资料难以集中获取，用户需要耗费大量时间搜寻。
 3. **知识付费的价值存疑**：用户投入与获取信息的质量常常不成比例。
 
 为了应对这些挑战，我们发现一个重要的社交角色——KOL（关键意见领袖），并围绕这一角色构建了Xfinder的核心功能。Xfinder 将自身定位为一个Web3社交论坛，主要包括以下模块：
-
 - **新手指南**：为新手提供包括区块链基础知识、行业生态框架、钱包使用手册、安全注意事项以及如何防范诈骗等实用内容。
 - **高阶内容**：包括KOL评测模块，记录不同KOL在特定时期内的表现（如喊单胜率、风格特点等），并提供KOL撰写的行业深度文章整合。同时，用户还可以参与到黑榜论坛，交流讨论行业内的相关风险。
 
 通过Xfinder，我们旨在为新手提供便捷的知识获取途径，降低Web3的入门门槛，同时提升用户获取高质量信息资源的效率。我们相信，这个平台能够帮助更多人轻松跨越Web3的学习门槛，推动整个行业的发展。
+
+## 项目所选主赛道（只能一个）和 Bounty 赛道名称（可多个）
+
+主赛道：General
+Bounty 赛道：BGA(Blockchain for Good Alliance)
 
 ## 核心功能（4-5 条关键核心要点）
 
@@ -28,16 +28,23 @@ Xfinder 是一款专为Web3新手和进阶用户设计的社交聚合平台，�
 
 通过这些核心功能，Xfinder 不仅为新手提供了一个便捷的入门途径，还为进阶用户提供了丰富的知识储备和风险防范工具，帮助他们在Web3的世界中稳步前行。
 
-## 项目演示（录屏 或 可页面的在线访问地址均可）
-* 推特账号：@0xgangWhat
+## 代码仓库地址
 * Github：[https://github.com/xfindlab/xfinder](https://github.com/xfindlab/xfinder)
-* 网站地址：[https://xfinder.fun/](https://xfinder.fun/)
-* 测评文档：[https://docs.google.com/spreadsheets/d/1DRt7axVIilFytqLCZBOidgprooERXdfNnsbdJOGt8qs/edit?pli=1#gid=1272007175](https://docs.google.com/spreadsheets/d/1DRt7axVIilFytqLCZBOidgprooERXdfNnsbdJOGt8qs/edit?pli=1#gid=1272007175)
 
 ## 团队成员（名字、Github 地址）
 * Echo_nina(project manager) [https://github.com/Nina2333](https://github.com/Nina2333)
 * ls06 (Frontend Developer)
 * unicorn (Blockchain developer)
 * suinian (Backend developer)
+
+## Deck (PPT) 地址
+Xfinder Web3社交聚合平台 [https://kdocs.cn/l/cgzGMQBtShvN](https://kdocs.cn/l/cgzGMQBtShvN)
+
+## 项目演示（录屏 或 可页面的在线访问地址均可）
+* 推特账号：@0xgangWhat
+* 网站地址：[https://xfinder.fun/](https://xfinder.fun/)
+* 测评文档：[google.excel](https://docs.google.com/spreadsheets/d/1DRt7axVIilFytqLCZBOidgprooERXdfNnsbdJOGt8qs/edit?pli=1#gid=1272007175)
+
+
 
 
