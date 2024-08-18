@@ -49,16 +49,26 @@ YouBet Task 是一个自动为开源开发者分发奖励的平台，通过跟�
 - 深入挖掘 GitHub 项目和 Web3 项目之间的关联，基于链上数据和开发者数据进行项目分析。
 - 正式发布产品并寻求与各社区的深度合作。
 
-## 项目团队
+## 团队成员
 
 - [wfnuser](https://github.com/wfnuser)
+- [c21](https://github.com/jerikchan)
+- [Amateur](https://github.com/Amateur0x1)
+
+## 获奖记录
+
+[7/25 Scroll Mini General Track](https://www.hackquest.io/zh/hackathon/projects/Scroll-City-Cup-Hackathon-YouBet-Task)
+
+这次黑客松期间我们花了大量的时间让项目达到接近生产可用的水准并引入了教程的功能。
 
 ## 项目链接
 
-| 项目       | 链接                                            |
-| ---------- | ----------------------------------------------- |
-| 在线演示   | [youbet-task](https://youbet-task.netlify.app/) |
-| Youbet SDK | [youbet-sdk](https://youbetdao.github.io/)      |
+| 项目        | 链接                                                    |
+| ----------- | ------------------------------------------------------- |
+| 在线演示    | [youbet-task](https://youbet-task.netlify.app/)         |
+| Youbet Task | [youbet-task](https://github.com/YoubetDao/youbet-task) |
+| Youbet SDK  | [youbet-sdk](https://youbetdao.github.io/)              |
+| Youbet Core | [youbet-core](https://github.com/YoubetDao/youbet)      |
 
 ## 联系信息
 
