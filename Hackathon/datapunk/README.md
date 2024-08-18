@@ -54,7 +54,7 @@ Rebellion Data Funder 的核心假设包括：
 
 [xiaoyu](https://github.com/SoYuCry)
 
-[王远哲](https://github.com/wyzzhe)
+[wyzzhe](https://github.com/wyzzhe)
 
 大地之子 定慧（未在本次活动中报名参与）
 
