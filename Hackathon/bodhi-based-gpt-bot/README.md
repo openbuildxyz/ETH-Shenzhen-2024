@@ -2,6 +2,11 @@
 
 基于 Bodhi 内容代币化协议的，Prompts 和 Knowledges 完全去中心化的 AI Agent 脚手架。
 
+## 项目所选主赛道（只能一个）和 Bounty 赛道名称（可多个）
+
+主赛道： Open-Source Tools/Infrastructure,
+Bounty 赛道：TheGraph
+
 ## 核心功能（4-5 条关键核心要点）
 
 * Prompt & Knowledges 永久存储 —— GPT Bot 永存
@@ -21,7 +26,7 @@ https://github.com/rootMUD/bodhi-based-gpt-bot
 
 ## 历史获奖说明：如果您的项目之前参与过其它 Hackathon 或 有获得过奖项/Grant，请再次说明
 
-* 来源项目 arweave-based-gpt-bot 获得 PermaDAO 自主的 Grant
+* 来源项目 arweave-based-gpt-bot 获得 PermaDAO 资助的 Grant
 
 ## Deck (PPT) 地址，也可直接放在此文件夹下
 
