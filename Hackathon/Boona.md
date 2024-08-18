@@ -27,5 +27,5 @@ https://github.com/taozimao/Boona
 
 ## 项目链接
 
-- 介绍 PPT：
+- 介绍 PPT：https://c6cdn4x2d5.feishu.cn/slides/FVlas8XnjlLASedP5PYcobUNnhe?from=from_copylink
 - 项目演示：https://docs.google.com/document/d/10qJcjjLEAeZWXfZVcyvoDfekhDgjLAwnKimpqUkzOjU/edit?usp=sharing
