@@ -20,7 +20,7 @@ ChainWhiz 是一个由 AI 驱动的聚合数据搜索系统，旨在通过自然
 
 ## 代码仓库地址
 
-[GitHub Repository](https://github.com/chiguayeshao/data-drop)
+[GitHub Repository](https://github.com/chiguayeshao/chain-whiz)
 
 ## 团队成员
 
@@ -43,4 +43,4 @@ https://www.youtube.com/watch?v=bZIEb44Jd6s
 
 ## 项目官网
 
-https://web3-data-drop.vercel.app/
+https://chain-whiz.vercel.app/
