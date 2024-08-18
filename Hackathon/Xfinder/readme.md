@@ -1,5 +1,8 @@
 # xfinder
 
+赛道：General
+Bounty Track:BGA(Blockchain for Good Alliance)
+
 ## 项目概述
 **Xfinder — 让Web3知识获取更加简单**
 
@@ -32,9 +35,9 @@ Xfinder 是一款专为Web3新手和进阶用户设计的社交聚合平台，�
 * 测评文档：[https://docs.google.com/spreadsheets/d/1DRt7axVIilFytqLCZBOidgprooERXdfNnsbdJOGt8qs/edit?pli=1#gid=1272007175](https://docs.google.com/spreadsheets/d/1DRt7axVIilFytqLCZBOidgprooERXdfNnsbdJOGt8qs/edit?pli=1#gid=1272007175)
 
 ## 团队成员（名字、Github 地址）
-* Echo_nina(project manager) [Github](https://github.com/Nina2333)
-* ls06(Frontend Developer)
-* unicorn(Blockchain developer)
-* suinian(Backend developer)
+* Echo_nina(project manager) [https://github.com/Nina2333](https://github.com/Nina2333)
+* ls06 (Frontend Developer)
+* unicorn (Blockchain developer)
+* suinian (Backend developer)
 
 
