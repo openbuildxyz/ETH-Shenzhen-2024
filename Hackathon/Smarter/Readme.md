@@ -4,7 +4,7 @@ Smater is an innovative NFT trading platform designed to provide artists, collec
 Main Track and Bounty Tracks
 
 Main Track: General
-Bounty Tracks: Vara
+Bounty Tracks: Vara, Graph
 
 
 
