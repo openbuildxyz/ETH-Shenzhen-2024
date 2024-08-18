@@ -31,7 +31,7 @@ And our ultimate goal is to create an environment where developers are free to u
 - Backend: Nest.js
 - Database: MongoDB & Kafka
 - EVM chain: Build on Scroll | Compiled and Published by Foundry
-- **Powered by [Youbet-Sdk](youbetdao.github.io)**
+- **Powered by [Youbet-Sdk](https://youbetdao.github.io/)**
 - **Heavily depends on Github APIs**
 
 ## Roadmap
@@ -51,9 +51,9 @@ October - November 2024
 
 ## Project Team
 
-- [wfnuser](https://github.com/wfnuser)
-- [c21](https://github.com/jerikchan)
-- [Amateur](https://github.com/Amateur0x1)
+- [wfnuser](https://github.com/wfnuser) - 全栈 - With great responsibility comes great power. SJTUer
+- [c21](https://github.com/jerikchan) - 前端 - 前端开发者，梦想旅居全世界。
+- [Amateur](https://github.com/Amateur0x1) - 前端 - .intp ，兴趣广泛，喜欢探索(◍•ᴗ•◍)
 
 ## Award Records
 
