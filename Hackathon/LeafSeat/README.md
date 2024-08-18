@@ -4,7 +4,7 @@
 
 # 赛道
 
-主赛道： **General**
+主赛道： **Innovative Dapps**
 
 Bountry赛道： **TheGrahp**
 
