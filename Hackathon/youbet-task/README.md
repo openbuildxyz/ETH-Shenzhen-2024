@@ -63,12 +63,13 @@ During this hackathon, we invested a significant amount of effort to bring the p
 
 ## Project Links
 
-| Item        | Link                                                    |
-| ----------- | ------------------------------------------------------- |
-| Live Demo   | [youbet-task](https://youbet-task.netlify.app/)         |
-| Youbet Task | [youbet-task](https://github.com/YoubetDao/youbet-task) |
-| Youbet SDK  | [youbet-sdk](https://youbetdao.github.io/)              |
-| Youbet Core | [youbet-core](https://github.com/YoubetDao/youbet)      |
+| Item             | Link                                                                                                                                         |
+| ---------------- | -------------------------------------------------------------------------------------------------------------------------------------------- |
+| Live Demo        | [youbet-task](https://youbet-task.netlify.app/)                                                                                              |
+| Youbet Task      | [youbet-task](https://github.com/YoubetDao/youbet-task)                                                                                      |
+| Youbet SDK       | [youbet-sdk](https://youbetdao.github.io/)                                                                                                   |
+| Youbet Core      | [youbet-core](https://github.com/YoubetDao/youbet)                                                                                           |
+| Last Pitch Video | [pitch-video](https://www.hackquest.io/zh/hackathon/projects/Scroll-City-Cup-Hackathon-YouBet-Task) You can observe the progress we've made. |
 
 ## Contact Information
 
