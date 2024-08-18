@@ -33,3 +33,11 @@ front-end： [Young-Jeff](https://github.com/Young-Jeff)
 ## 项目链接
 
 https://auctionclub.github.io/frontend/
+
+### Deck 地址
+
+./AuctionClub.pptx
+
+### 项目演示
+
+https://youtu.be/HGsJLdwxTEg?si=F3g1zMiAPgraaGDr
