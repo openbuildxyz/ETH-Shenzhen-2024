@@ -16,7 +16,7 @@ https://github.com/wangshouh/unibank
 
 ## 团队成员（名字、Github 地址）
 
-[Shouhao Wang](https://github.com)
+[Shouhao Wang](https://github.com/wangshouh), [ReRe](https://github.com/LXJ2), [Philo](https://github.com/PhiloCwh)
 
 ### Deck (PPT) 地址
 
