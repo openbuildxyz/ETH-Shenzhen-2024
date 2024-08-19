@@ -3,7 +3,7 @@ AuctionClub is a smart contract-based auction platform that provides traders wit
 
 ## 项目所选主赛道和 Bounty 赛道
 
-+ 主赛道：**General**
++ 主赛道： **Innovative Dapps**
 
 + Bounty 赛道：**TheGraph** 
 
