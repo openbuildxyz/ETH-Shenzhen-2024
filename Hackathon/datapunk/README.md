@@ -2,13 +2,25 @@
 
 ## 项目概述
 
-Rebellion Data Funder 致力于构建一个全球性的数据众筹平台，赋予用户对个人数据的完全控制权，并通过去中心化的经济激励机制获得实际回报。用户可以透明、安全地共享数据，并通过 RBL token 实现直接经济收益，从而推动数据经济的公平发展和隐私保护。
+Rebellion Data Funder 致力于构建一个全球性的数据众筹平台，赋予用户对个人数据的完全控制权。用户可以透明、安全地导出并共享数据，并通过 RBL token 实现直接经济收益，从而推动数据经济的公平发展和隐私保护。**“Unlock Your Data, Crowdfund Your Worth”** 是 Rebellion Data Funder 的核心理念，旨在确保用户数据的隐私和控制权。平台通过加密生物标识验证用户的真实性，允许用户安全地分享数据赚取收益的同时，不泄露现实世界身份。
 
-Rebellion Data Funder 由一个隐私保护的数据共享平台（Data Network）和一个去中心化的经济激励机制（RLB token）组成。每个用户通过分享数据，验证后即可获得 RLB token 的经济收益。该平台采用先进的加密技术和区块链基础设施支持，在保护隐私的同时将人类与人工智能区分开来，确保数据的有效性和隐私性。
+Rebellion Data Funder 的核心假设包括：
 
-“数据隐私保护” 是 Rebellion Data Funder 的核心理念，旨在确保用户数据的隐私和控制权。平台通过加密技术验证数据的真实性，并通过去中心化的机制确保数据使用的透明性，使用户能够在不泄露现实世界身份的情况下安全地分享数据。
+- **数据隐私保护的必要性**：数据隐私保护是当前数字时代的核心需求。随着对数据安全的关注加剧，这一需求将变得更加重要。
+- **可扩展的经济激励**：RBL token 是 Rebellion Data Funder 的经济激励核心，用于对所有参与者进行激励，以确保平台的长期发展和激励用户参与数据共享，并保障数据的有效性和透明度。
+- **技术创新**：Rebellion Data Funder 基于先进的加密技术构建了一个隐私保护的数据网络。用户通过平台控制个人数据的共享，并确保数据在传输和存储过程中得到最高级别的保护。加密技术的应用确保了数据的真实性和隐私，防止了数据的滥用和泄露。
 
-目前，数据隐私保护在全球范围内仍是一个亟待解决的问题，尤其是在隐私法规日益严格的背景下。随着数据共享和经济激励机制的不断发展，Rebellion Data Funder 可能成为全球数据隐私保护和经济回报的标准。
+### Rebellion Data Funder 如何运作？
+
+**Rebellion Data Funder** 旨在实现数据的安全交易与公平奖励分配。用户可以自愿成为数据上传者、验证者或购买方，通过生物标识加密识别真实用户，并获得平台 **Rebellion ID** 的唯一标识。数据上传者可以浏览购买方发布的悬赏任务，利用提供的导出工具将信息共享给购买方使用。
+
+数据上传者的信息会经过数据脱敏模块后，进入待验证池（mempool），等待验证者的审核。验证者需要质押 ETH 以确保其公正性，独立验证数据是否符合购买方的要求。每条待验证的数据采用“荷兰拍”寻求验证者，奖励积分变化取决于上传者定义的价格曲线。经过验证的数据将被记录在区块链上，确保结果的透明性和不可篡改性。购买方保留对验证后的数据质疑的权利，以监督验证者的准确性。
+
+开发者可以通过提交数据导出工具和特定场景的脱敏模块参与到 Rebellion Data Funder 生态。用户可以通过订阅会员解锁更高级的导出工具，脱敏模块的开发者也可以通过订阅和分润赚取代币，并享受潜在的空投奖励。
+
+<p align="center">
+    <img src="https://github.com/ContributeDAO/.github/blob/main/profile/Framework.png?raw=true" alt="Framework" width="900" />
+</p>
 
 ## 赛道选择
 
@@ -36,13 +48,13 @@ Rebellion Data Funder 由一个隐私保护的数据共享平台（Data Network�
 
 ## 团队成员
 
-[归野鸽](https://github.com/orgs/ContributeDAO/people/StevenRCE0)
+[归野鸽](https://github.com/StevenRCE0)
 
-[Navy](https://github.com/orgs/ContributeDAO/people/Navy-LIU)
+[Navy](https://github.com/Navy-LIU)
 
-[xiaoyu](https://github.com/orgs/ContributeDAO/people/SoYuCry)
+[xiaoyu](https://github.com/SoYuCry)
 
-[王远哲](https://github.com/orgs/ContributeDAO/people/wyzzhe)
+[wyzzhe](https://github.com/wyzzhe)
 
 大地之子 定慧（未在本次活动中报名参与）
 
@@ -53,6 +65,7 @@ AdventureX 2024 Hackathon 赛道获奖
 ## Deck
 
 [Rebellion Data Funder 项目书](https://github.com/ContributeDAO/.github/blob/main/profile/Rebellion%20Data%20Funder%20项目书.md)
+[Demo 演示](https://rdf-net.vercel.app/)
 
 ## 项目演示
 
