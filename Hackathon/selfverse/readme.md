@@ -10,7 +10,7 @@
 
 ## 参加赛道
 
-主赛道为「Open-Source Tools/Infrastructure」，bounty 赛道为「BGA(Blockchain for Good Alliance)」。
+主赛道为「Open-Source Tools/Infrastructure」，bounty 赛道为「SmartLayer Network」和「BGA(Blockchain for Good Alliance)」。
 
 ## 核心功能
 
@@ -22,7 +22,7 @@
 
 ## 项目团队
 
-[欧雷](https://github.com/ourai)一人。
+团队名为「Otopia Digital Ranger」，仅有[欧雷](https://github.com/ourai)一人。
 
 ## 历史获奖
 
