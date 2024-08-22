@@ -1,5 +1,8 @@
 # Crowdsource 项目介绍
 
+- **主赛道：** General
+- **Bounty 赛道：** SmartLayer
+
 ### 项目概述
 
 BAO 包的 - 让合适的人凑在一起做项目
