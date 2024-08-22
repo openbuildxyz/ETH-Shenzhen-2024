@@ -6,6 +6,11 @@ Nextmate.AI is a pioneering project that combines Web3, AI, and gamified educati
 
 Nextmate.ai —— Your Web3 + AI Growth Companion。Nextmate.ai是一个结合 Web3、AI和游戏化教育（GamEducation）的行业创新项目，致力于彻底改变情感陪伴的格局，将先进的人工智能技术与引人入胜的游戏化体验相结合，在创新的互动情节和开放式的剧情探索过程中，为用户提供成长型伴侣，满足用户情绪陪伴、语言学习和共同成长的需求，使用户获得更具吸引力、支持性和丰富的体验。
 
+### 项目所选赛道
+
+主赛道：Innovative Dapps, Open-Source Tools/Infrastructure, xFi, General
+Bounty 赛道：Bifrost, Vara Network, SmartLayer Network, BGA
+
 ### 核心功能
 
 1、AI情感陪伴
