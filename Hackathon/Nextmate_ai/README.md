@@ -9,6 +9,7 @@ Nextmate.ai —— Your Web3 + AI Growth Companion。Nextmate.ai是一个结合 
 ### 项目所选赛道
 
 主赛道：Innovative Dapps
+
 Bounty 赛道：Bifrost, Vara Network, SmartLayer Network, BGA
 
 ### 核心功能
