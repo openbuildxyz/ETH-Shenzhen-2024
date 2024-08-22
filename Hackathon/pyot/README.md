@@ -1,6 +1,11 @@
 
 OP-PYOT
 
+主赛道: General
+
+Bounty赛道: Vara Network Track
+
+
 ### 项目概述
 
 OP-PYOT 是一个 ZKP 证明者市场 （Prover Market）的方案。

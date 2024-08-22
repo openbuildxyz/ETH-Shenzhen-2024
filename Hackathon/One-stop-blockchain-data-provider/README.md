@@ -28,7 +28,7 @@ The graph
 
 ## 代码仓库
 
-https://github.com/jeasonzhang-eth/one-stop-blockchain-data-provider
+https://github.com/jeasonzhang-eth/odindata
 
 ## 项目团队
 
@@ -39,7 +39,7 @@ Full-stack developer：[jeaonzhang](https://github.com/wackerow)
 
 ## Deck 地址
 
-https://xxxx.pdf
+https://drive.google.com/file/d/1aBEQNFNLM-cNU4HQKnc1CVdexj4nau3U/view?usp=sharing
 
 ## 项目演示
 https://discord.gg/T3J7wnYV

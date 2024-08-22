@@ -17,3 +17,9 @@ Solidity contract: [JXRow](https://github.com/JXRow)
 
 ## 历史获奖
 无。
+
+## 主赛道
+xFi
+
+## Bounty 赛道
+Bifrost, BGA(Blockchain for Good Alliance)

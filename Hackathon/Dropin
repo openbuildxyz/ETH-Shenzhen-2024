@@ -1,85 +1,115 @@
-Dropin DApp - 融合DeFi、GameFi与创新技术的区块链抽奖平台
+# Vara-Dropin DApp
 
->主赛道 1.Innovative Dapps 创新应用类赛道，Defi, Gamefi，，NFTs，DEX等 Mass Adoption 的应用。
-
->Bounty Vara Network Track
-
-项目概述 Dropin是一个创新的区块链DApp，构建在Vara Network之上，旨在通过游戏化抽奖、金融激励、NFT资产和去中心化交易，为用户提供一个全新的互动体验和价值创造平台。利用智能合约和区块链技术，Dropin确保了抽奖过程的公平性、透明性和安全性。
-
-核心功能
-
-注：核心功能为已实现路线图的前两步
-
-核心功能一：DeFi（质押收益可抽奖）
-
-解释： 用户可以通过质押VARA代币来参与抽奖活动，质押行为将基于DeFi原理产生收益。 质押收益将转换为抽奖资格，用户无需额外支付费用，即可参与抽奖。 质押的VARA代币在锁定期间仍然可以产生收益，这些收益可以用于支付抽奖成本或再次投资。
-
-核心功能二：Gaming（游戏化抽奖）
-
-解释： 用户向智能合约发送等额于0.1 ETH的VARA代币，参与抽奖。 一旦抽奖池累计达到预定金额（例如1 ETH等值的VARA），智能合约将随机选择一个幸运用户。 中奖用户将获得相当于0.9 ETH的VARA代币，而DApp运营方将收取相当于0.1 ETH的VARA作为Gas费和运营成本。
-
-核心功能三：Telegram分享（社交媒体增长）
-
-解释： 用户可以通过Telegram分享Dropin DApp的信息或活动，以促进社交媒体上的增长和参与度。 分享行为可能包括邀请新用户、分享抽奖结果或参与社区讨论。 作为激励，分享者可能会获得额外的抽奖机会或小额VARA代币奖励，以鼓励用户推广DApp。 激励为每轮抽奖所获取的运营gas费的10%的按参与推广地址的比例分配等额的VARA。
-
-核心功能四：Gamefi（游戏化金融）
-
-解释： 即使用户在抽奖中未中奖，他们仍有机会通过Gamefi机制获得奖励。 根据用户在链上的交互历史，如质押、分享和参与活动，他们将按比例获得合作Web3项目方的代币空投。 空投的代币可能是VARA或其他在Vara Network上流通的代币，这些代币由与Dropin合作的项目方提供。
-
-路线图
-
-路线图一：Gaming（游戏化抽奖）
-
-描述： 用户参与一个基于区块链的公平抽奖活动，每个参与者通过向智能合约发送0.01 ETH来加入抽奖池。 抽奖池累计达到1 ETH后，智能合约通过一个随机算法从100个参与地址中选出一个幸运地址。 中奖地址将获得0.9 ETH，而DApp运营方地址则收取0.1 ETH作为Gas费和运营成本。
-
-示例： MVP（最小可行产品）启动时，假设有100个链上地址参与，每个地址贡献0.01 ETH，形成1 ETH的总奖池。 通过智能合约的随机选择机制，一个地址被选中，获得0.9 ETH的奖励。
-
-路线图二：GameFi（游戏化金融）
-
-描述： 未中奖的参与者根据其在链上的交互历史数据，按照一定比例获得合作Web3项目方的代币空投。 这种机制旨在奖励用户的参与和忠诚度，同时为合作项目带来潜在的新用户和社区成员。 Dropin团队从合作代币空投项目方收取服务费或代币，作为运营收入。
-
-示例： 在上述100个地址中，未获得0.9 ETH奖励的地址将根据其链上活动获得代币空投。 空投比例和数量由智能合约根据预设算法和用户交互数据自动计算。
-
-路线图三：NFT（非同质化代币）
-
-描述： 为了减少零和博弈的负面影响，引入NFT作为奖励的一部分，增加抽奖活动的吸引力。 用户贡献的ETH被拆分为N个碎片化的NFT，每个碎片代表一定价值的ETH。 通过智能合约，从100个地址中随机选择一个地址，该地址获得一个价值90u的NFT，而运营方地址收取10u作为Gas和运营费。
-
-示例： 假设1 ETH资产被拆分为1000个1u的ETH碎片NFT。 用户通过贡献1u参与抽奖，100个地址共同形成100u的奖池。 中奖者获得一个价值90u的NFT，运营方获得10u。
-
-路线图四：DEX（去中心化交易所）
-
-描述： 允许用户在去中心化交易所上自由交易NFT，实现NFT的市场价值发现。 NFT可以在DEX上以1:1的比例兑换ETH，确保NFT的流动性和实用性。 通过DEX，用户可以买卖NFT，包括通过抽奖获得的NFT和在DEX上购买的NFT。
-
-示例： 用户在DEX上挂单出售其NFT，价格基于NFT的市场现价。 其他用户可以购买这些NFT，交易通过智能合约自动执行，确保交易的安全性和透明度。
-
-项目优势
-
-Vara Network集成：充分利用Vara Network的高性能和安全性，为用户提供流畅的体验。
-创新抽奖机制：结合DeFi和GameFi元素，提供有吸引力的抽奖模式，增加用户粘性。
-NFT资产流动性：通过DEX增强NFT的流动性，允许用户交易和投资NFT资产。
-社区驱动：鼓励社区参与和治理，共同推动项目发展。
-结论 Dropin DApp通过结合Vara Network的特性，提供一个创新的区块链抽奖平台，不仅增加了用户的互动性和参与度，而且通过DeFi和NFT的融合，为用户创造了新的价值获取方式。随着项目的不断发展和社区的壮大，Dropin有望成为Vara Network生态系统中的一颗璀璨明星。
-
-团队成员
-
-Hangbiao https://github.com/btwiuse
-
-Li Smith https://github.com/baidang201
-
-Harry https://github.com/iamhappyboy
-
-Lee Zhang https://github.com/Dropineth/
-
-历史获奖说明：2024年08月ETH黑客松新组队新项目，无获奖
-
-项目演示
-
-Deck 
-![image](https://github.com/user-attachments/assets/ce9fa505-1e16-46de-bb14-96b1faa92838)
-![image](https://github.com/user-attachments/assets/0c5887e1-0cb3-48a2-836a-0c787c9211fc)
-![image](https://github.com/user-attachments/assets/f7f325e2-037c-46e3-bff2-3f49ce245b7f)
-![image](https://github.com/user-attachments/assets/e525497d-24cb-438d-93c8-df98e8ec6704)
+A Decentralized Lottery Protocol Harnessing DeFi, GameFi, and Novel Blockchain Paradigms
 
 
+## Main Track
 
-前端交互示例 https://claude.site/artifacts/a14dd08b-f491-4660-b6d0-5bd3ea87e697
+### Innovative Dapps
+This track focuses on innovative applications such as DeFi, GameFi, NFTs, DEXs, and other applications that drive mass adoption.
+
+## Bounty 
+### Vara Network Track
+### Bifrost
+
+# Project Overview
+Dropin is an innovative blockchain DApp built on the Vara Network, designed to provide users with a new interactive experience and value creation platform through gamified lotteries, financial incentives, NFT assets, and decentralized trading. Leveraging smart contracts and blockchain technology, Dropin ensures fairness, transparency, and security in the lottery process.
+
+## Core Features
+
+Note: The core features represent the first two steps of the implemented roadmap.
+
+### Core Feature 1: DeFi (Staking Rewards Lottery)
+
+**Explanation:**
+- Users can participate in lottery activities by staking VARA tokens. The staking process generates rewards based on DeFi principles.
+- Staking rewards are converted into lottery tickets, allowing users to participate in the lottery without additional costs.
+- The staked VARA tokens continue to generate rewards during the lock-up period, which can be used to cover lottery costs or reinvested.
+
+### Core Feature 2: Gaming (Gamified Lottery)
+
+**Explanation:**
+- Users send an amount of VARA tokens equivalent to 0.1 ETH to the smart contract to participate in the lottery.
+- Once the lottery pool reaches a predetermined amount (e.g., 1 ETH worth of VARA), the smart contract randomly selects a lucky user.
+- The winning user receives VARA tokens equivalent to 0.9 ETH, while the DApp operator collects VARA tokens equivalent to 0.1 ETH as gas fees and operational costs.
+
+### Core Feature 3: Telegram Sharing (Social Media Growth)
+
+**Explanation:**
+- Users can promote Dropin DApp by sharing information or activities via Telegram to increase social media growth and engagement.
+- Sharing activities may include inviting new users, sharing lottery results, or participating in community discussions.
+- As an incentive, sharers may receive additional lottery tickets or small VARA token rewards to encourage DApp promotion.
+- Incentives will be distributed based on 10% of the gas fees collected in each lottery round, proportionally allocated to participating promotional addresses.
+
+### Core Feature 4: GameFi (Gamified Finance)
+
+**Explanation:**
+- Even if users do not win the lottery, they still have a chance to earn rewards through the GameFi mechanism.
+- Based on their on-chain interaction history, such as staking, sharing, and participation, users will receive airdrops of tokens from collaborating Web3 projects.
+- Airdropped tokens may be VARA or other tokens circulating on the Vara Network, provided by projects partnering with Dropin.
+
+## Roadmap
+
+### Roadmap 1: Gaming (Gamified Lottery)
+
+**Description:**
+- Users participate in a blockchain-based fair lottery by sending 0.01 ETH to the smart contract to join the lottery pool. Once the pool reaches 1 ETH, the smart contract randomly selects a winning address from 100 participants. The winning address receives 0.9 ETH, and the DApp operator collects 0.1 ETH as gas fees and operational costs.
+
+**Example:**
+- At the MVP (Minimum Viable Product) launch, suppose 100 on-chain addresses participate, each contributing 0.01 ETH to form a total prize pool of 1 ETH. A single address is selected through the smart contract’s random selection mechanism to receive a 0.9 ETH reward.
+
+### Roadmap 2: GameFi (Gamified Finance)
+
+**Description:**
+- Non-winning participants receive token airdrops from collaborating Web3 projects based on their on-chain interaction history. This mechanism rewards user participation and loyalty while providing potential new users and community members to partnering projects. Dropin earns operational income through service fees or tokens from the airdrop projects.
+
+**Example:**
+- Among the 100 addresses mentioned above, those not receiving the 0.9 ETH reward will receive token airdrops based on their on-chain activities. The airdrop ratio and amount are automatically calculated by the smart contract based on preset algorithms and user interaction data.
+
+### Roadmap 3: NFTs (Non-Fungible Tokens)
+
+**Description:**
+- To reduce the negative impact of zero-sum games, NFTs are introduced as part of the rewards to increase the appeal of lottery activities. The ETH contributed by users is split into N fractional NFTs, each representing a certain value of ETH. The smart contract randomly selects one address out of 100, which receives an NFT worth 90u, while the operator's address collects 10u as gas and operational fees.
+
+**Example:**
+- Suppose a 1 ETH asset is split into 1,000 1u ETH fractional NFTs. Users participate in the lottery by contributing 1u, forming a 100u prize pool. The winner receives an NFT worth 90u, and the operator collects 10u.
+
+### Roadmap 4: DEX (Decentralized Exchange)
+
+**Description:**
+- Users are allowed to freely trade NFTs on a decentralized exchange, realizing the market value of NFTs. NFTs can be exchanged 1:1 for ETH on the DEX, ensuring their liquidity and utility. Through the DEX, users can buy and sell NFTs, including those won in the lottery or purchased on the DEX.
+
+**Example:**
+- A user lists their NFT for sale on the DEX, priced based on the NFT’s current market value. Other users can purchase these NFTs, with transactions automatically executed through smart contracts, ensuring security and transparency.
+
+## Project Advantages
+- **Vara Network Integration:** Fully utilizes the high performance and security of Vara Network to provide a seamless user experience.
+- **Innovative Lottery Mechanism:** Combines DeFi and GameFi elements to offer an attractive lottery model, enhancing user engagement.
+- **NFT Asset Liquidity:** Enhances NFT liquidity through the DEX, allowing users to trade and invest in NFT assets.
+- **Community-Driven:** Encourages community participation and governance, jointly driving project development.
+
+# Conclusion
+By combining the features of the Vara Network, Dropin DApp provides an innovative blockchain lottery platform that not only increases user interaction and engagement but also creates new value opportunities through the integration of DeFi and NFTs. As the project continues to develop and the community grows, Dropin is poised to become a shining star in the Vara Network ecosystem.
+
+# Team Members
+
+- **Hangbiao:** [GitHub](https://github.com/btwiuse)
+- **Li Smith:** [GitHub](https://github.com/baidang201)
+- **Harry:** [GitHub](https://github.com/imhappyboy)
+- **Lee Zhang:** [GitHub](https://github.com/Dropineth/)
+
+# Awards History
+Dropin is a new project formed for the August 2024 ETH Hackathon and has not yet won any awards.
+
+# Project Demo
+
+## Deck
+[Click here](https://docs.google.com/document/d/107-AjTQCHJsmBQsbN9ruQQQsj2UT1CbIbjCiFGmLUR0/edit?usp=sharing)
+
+## Frontend Interaction Example
+[Click here](https://claude.site/artifacts/15b360cf-5eab-412d-b855-30d2bcd39b4e)
+
+
+## Telegram Sharing Example
+[Click here](https://docs.google.com/document/d/1qE7gY0R5kyxBSBIOmm-YX12IrnN0uARLy0hjv1_aZBc/edit?usp=sharing)
+
