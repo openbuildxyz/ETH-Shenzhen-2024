@@ -1,6 +1,12 @@
+
+# 赛道所属
+
+Vara Network Track and SmartLayer Network 
+
 # StarAI 项目概述
 
 StarAI 是一个 AI Talk to Earn 的 Telegram Mini App，用户可以直接通过小程序或 HTML5 方式使用 AI 虚拟聊天、AI 绘画卡牌等大模型能力，并且具备 NFT、签到、抽奖等链上交互能力。StarAI 的所有算力和模型都使用 DePIN 网络来提供，全量部署在以前以太坊矿池的 3080 和 3090 的消费级显卡集群之上，具备与 GPT 和 c.ai 相近的产品体验。我们致力于将更多的 Web2 AI 用户导入到 Web3 世界中来。
+
 
 ## 核心功能
 
