@@ -25,7 +25,7 @@ Rebellion Data Funder 的核心假设包括：
 ## 赛道选择
 
 - **主赛道:** Open-Source Tools/Infrastructure
-- **Bounty 赛道:** The Graph, BGA(Blockchain for Good Alliance)
+- **Bounty 赛道:** The Graph, BGA(Blockchain for Good Alliance), SmartLayer Network, Bifrost
 
 ## 核心功能
 
@@ -46,6 +46,10 @@ Rebellion Data Funder 的核心假设包括：
 项目所用的多个仓库都在这个组织下：
 <https://github.com/ContributeDAO>
 
+## 项目时间
+
+本项目于 7.16-7.18 在 AdventureX 黑客松活动启动，8.16-8.18 参与 ETH 深圳黑客松活动继续开发。
+
 ## 团队成员
 
 [归野鸽](https://github.com/StevenRCE0)
@@ -65,9 +69,10 @@ AdventureX 2024 Hackathon 赛道获奖
 ## Deck
 
 [Rebellion Data Funder 项目书](https://github.com/ContributeDAO/.github/blob/main/profile/Rebellion%20Data%20Funder%20项目书.md)
-[Demo 演示](https://rdf-net.vercel.app/)
 
 ## 项目演示
+
+[Demo 网站](https://rdf-net.vercel.app/)
 
 项目演示等更多信息会在此处更新：
 <https://github.com/ContributeDAO/.github>
