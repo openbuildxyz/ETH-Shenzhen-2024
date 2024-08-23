@@ -4,6 +4,11 @@
 
 通过对以太坊地址首尾字符染色，让用户快速检查的以太坊地址的一致性。
 
+# 项目所选主赛道（只能一个）和 Bounty 赛道名称（可多个）
+
+主赛道：Open-Source Tools/Infrastructure
+Bounty 赛道：TheGrahp, Vara Network, SmartLayer Network, Bifrost, BGA(Blockchain for Good Alliance)
+
 ## 核心功能（4-5 条关键核心要点）
 
 * 差异性 —— 即使只输错一两个字符，染色结果也会大不相同
@@ -19,7 +24,7 @@ https://github.com/AdamLeeeee/Ethereum-Colored-Address-Protocol
 
 * 33357，https://github.com/33357
 
-* 李洋，https://github.com/AdamLeeeee
+* Adam，https://github.com/AdamLeeeee
 
 * 小学后生，https://github.com/Dnevend
 
@@ -29,8 +34,8 @@ https://github.com/AdamLeeeee/Ethereum-Colored-Address-Protocol
 
 ## Deck (PPT) 地址，也可直接放在此文件夹下
 
-[ethereum-colored-address-protocol.key](./ethereum-colored-address-protocol.key)
+[ethereum-colored-address-protocol.pdf](./ethereum-colored-address-protocol.pdf)
 
 ## 项目演示（录屏 或 可页面的在线访问地址均可）
 
-> https://arweave.noncegeek.com
+https://eth-colored-address.dnevend.site/
