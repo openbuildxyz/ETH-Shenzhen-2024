@@ -25,7 +25,7 @@ https://github.com/wangshouh/unibank
 
 ### Deck (PPT) 地址
 
-https://github.com/openbuildxyz/ETH-Shenzhen-2024/tree/main/Hackathon/ubibank
+https://www.figma.com/design/YEW2nRhPPUWfETAVQuJ3Ep/UbiBank?node-id=215-3283&t=1wucLKqG7GqxqaRk-0
 
 ### 项目演示
 
