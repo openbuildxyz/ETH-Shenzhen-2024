@@ -5,6 +5,7 @@ StarAI 是一个 AI Talk to Earn 的 Telegram Mini App，用户可以直接通�
 # 赛道所属
 
 主赛道：Innovative Dapps
+
 Bounty赛道：Vara Network Track, SmartLayer Network 
 
 ## 核心功能
