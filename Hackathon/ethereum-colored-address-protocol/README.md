@@ -7,6 +7,7 @@
 # 项目所选主赛道（只能一个）和 Bounty 赛道名称（可多个）
 
 主赛道：Open-Source Tools/Infrastructure
+
 Bounty 赛道：TheGrahp, Vara Network, SmartLayer Network, Bifrost, BGA(Blockchain for Good Alliance)
 
 ## 核心功能（4-5 条关键核心要点）
