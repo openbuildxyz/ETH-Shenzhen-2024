@@ -19,7 +19,7 @@ Bounty 赛道：TheGrahp, Vara Network, SmartLayer Network, Bifrost, BGA(Blockch
 
 ## 代码仓库地址
 
-https://github.com/AdamLeeeee/Ethereum-Colored-Address-Protocol
+https://github.com/33357/Ethereum-Colored-Address-Protocol
 
 ## 团队成员（名字、Github 地址）
 
@@ -39,4 +39,4 @@ https://github.com/AdamLeeeee/Ethereum-Colored-Address-Protocol
 
 ## 项目演示（录屏 或 可页面的在线访问地址均可）
 
-https://eth-colored-address.dnevend.site/
+https://address.33357.xyz/
